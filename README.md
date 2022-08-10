@@ -6,7 +6,7 @@ Hello World APP
 An App which displays a message "Hello from Pooja" and performs certain functions of changing text color and background color providing gif of the whole App
 
 
-<img src="8-10-2022 (18-14-19).gif" width=200><br>
+<img src="8-10-2022 (18-31-41).gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
