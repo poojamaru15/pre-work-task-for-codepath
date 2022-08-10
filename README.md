@@ -6,7 +6,7 @@ Hello World APP
 An App which displays a message "Hello from Pooja" and performs certain functions of changing text color and background color providing gif of the whole App
 
 
-<img src="Hello.gif" width=200><br>
+<img src="https://i.imgur.com/L1ldPmf.gif" width=200><br>
 
 
 ### Required User Stories
